@@ -10,13 +10,13 @@
   const onChange = () => {
     if (imc > 0) {
       if (imc < 18.5) {
-        color = "#FF8E15";
+        color = " #FAB733";
       } else if (imc < 24.9) {
         color = "#69B34C";
       } else if (imc < 29.9) {
         color = "#ACB334";
       } else if (imc < 34.9) {
-        color = "#FAB733";
+        color = "#FF8E15";
       } else if (imc < 39.9) {
         color = "#FF4E11";
       } else {
