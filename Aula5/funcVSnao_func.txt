@@ -1,0 +1,6 @@
+Funcionais:
+Teste funcionais são aqueles feitos no momento do desenvolvimento para testar se as funcionalidade e recursos estão funcionando de acordo com o esperado. Teste de integração é exemplo de teste funcional.
+
+Não-funcionais:
+São testes que visam metrificar a qualidade do software e está mais ligado com a usabilidade do cliente. Teste de performance e teste de segurança são alguns exemplos de testes não funcionais.
+	
